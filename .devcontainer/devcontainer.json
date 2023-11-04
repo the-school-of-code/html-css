@@ -1,0 +1,14 @@
+{
+    "customizations": {
+		"vscode": {
+			"settings": {
+				"editor.formatOnSave": true,
+				"editor.formatOnPaste": true
+			},
+			"extensions": [
+				"ms-vscode.live-server"
+			]
+		}
+	},
+    "postCreateCommand": "npm install"
+}
