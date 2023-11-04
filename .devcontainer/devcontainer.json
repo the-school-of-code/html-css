@@ -6,10 +6,8 @@
 				"editor.formatOnPaste": true
 			},
 			"extensions": [
-				"ritwickdey.LiveServer",
-                "ms-vscode.live-server"
+				"ritwickdey.LiveServer"
 			]
 		}
-	},
-    "postCreateCommand": "npm install"
+	}
 }
