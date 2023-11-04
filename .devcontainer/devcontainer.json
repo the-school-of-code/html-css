@@ -6,7 +6,7 @@
 				"editor.formatOnPaste": true
 			},
 			"extensions": [
-				"ms-vscode.live-server"
+				"ritwickdey.LiveServer"
 			]
 		}
 	},
